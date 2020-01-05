@@ -2,7 +2,7 @@
 
 using System;
 
-namespace Random_Number-Game
+namespace Random_Number_Game
 {
     class Program
     {
